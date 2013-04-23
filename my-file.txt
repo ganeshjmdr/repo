@@ -1,0 +1,1 @@
+This is training for drupal. use commands proper to connect git.
